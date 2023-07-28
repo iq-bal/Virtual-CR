@@ -1,6 +1,6 @@
 # Virtual-CR-Backend
 
-Virtual CR Backend is a web-based app for CRship management. 
+Virtual CR is a web-based app for CRship management. This is the backend for the app. 
 
 Until now It provides with class routine data through a simple HTTP fetch request in JSON format. Obviously More will be added later. 
 
