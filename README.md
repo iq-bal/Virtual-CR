@@ -29,7 +29,11 @@ or
 ```
 $npm install
 ```
+5. In the terminal run the command
 
+```
+node app.js
+```
 
 ### Usage
 
