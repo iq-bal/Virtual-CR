@@ -1,4 +1,4 @@
-const routine = {
+let routine = {
     sunday:{
         period_1:{
             course_code: '', 
